@@ -1,4 +1,4 @@
-theme: jekyll-theme-console
+remote_theme: lekstm/jekyll-theme-console
 
 # remote_theme: midzer/urban-theme
 # remote_theme: b2a3e8/jekyll-theme-console
